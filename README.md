@@ -15,6 +15,8 @@
 
 > 城市列表JSON数据图片
 
+![JSON数据格式](https://github.com/xinmingZhou/cityListScene/blob/master/城市JSON.png)
+
 
 页面布局的代码如图
 > 页面布局代码
