@@ -81,4 +81,6 @@ _gotTotalHeightArray() {
 ## 最后
 这就是用ScrollView完成的城市列表，相对来说简单多了，而且体验也更好，更多请参考代码
 
+sectionList版本的代码参考sectionListCode
+
 
