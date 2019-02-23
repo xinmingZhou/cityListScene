@@ -1,5 +1,6 @@
 # ReactNative写的城市列表页
-效果图
+> 效果图
+
 ![gif](https://github.com/xinmingZhou/cityListScene/blob/master/屏幕录制%202019-02-23%2011.09.44.mov)
 
 
