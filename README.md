@@ -2,6 +2,9 @@
 效果图
 ![gif](https://github.com/xinmingZhou/cityListScene/blob/master/屏幕录制%202019-02-23%2011.09.44.mov)
 
+设置尺寸
+<img width="100" height="150" src="https://github.com/xinmingZhou/cityListScene/blob/master/屏幕录制%202019-02-23%2011.09.44.mov"/>
+
 首先来看需求
 > 页面包含当前定位，热门城市，全国的城市列表。其中全国城市列表页带字母分类，右侧带有字母索引
 
@@ -15,7 +18,7 @@
 
 > 城市列表JSON数据图片
 
-![JSON数据格式](https://github.com/xinmingZhou/cityListScene/blob/master/城市JSON.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/20)
+![JSON数据格式](https://github.com/xinmingZhou/cityListScene/blob/master/城市JSON.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/50)
 
 
 页面布局的代码如图
