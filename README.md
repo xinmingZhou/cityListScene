@@ -1,7 +1,10 @@
 # ReactNative写的城市列表页
-> 效果图
-
+> 效果图对比ScrollView和SectionList
+* scrollView
 ![gif](https://github.com/xinmingZhou/cityListScene/blob/master/选择列表.gif)
+
+* sectionList
+![gif](https://github.com/xinmingZhou/cityListScene/blob/master/sectionList.gif)
 
 
 首先来看需求
