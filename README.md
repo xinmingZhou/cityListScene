@@ -15,7 +15,7 @@
 
 > 城市列表JSON数据图片
 
-![JSON数据格式](https://github.com/xinmingZhou/cityListScene/blob/master/城市JSON.png)
+![JSON数据格式](https://github.com/xinmingZhou/cityListScene/blob/master/城市JSON.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/500)
 
 
 页面布局的代码如图
